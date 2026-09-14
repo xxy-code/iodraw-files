@@ -188,22 +188,7 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-92" value="统计后的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="517.5" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jTcK0SGoYX2v8AsxOeOt-8" value="地图网架数据展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="960" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jTcK0SGoYX2v8AsxOeOt-9" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1000" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jTcK0SGoYX2v8AsxOeOt-10" value="设备树数据/网架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="960" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jTcK0SGoYX2v8AsxOeOt-12" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1010" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jTcK0SGoYX2v8AsxOeOt-13" value="设备树数据/网架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="970" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jTcK0SGoYX2v8AsxOeOt-14" value="地图网架数据展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jTcK0SGoYX2v8AsxOeOt-14" value="页面嵌入数智平台" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="882.5" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jTcK0SGoYX2v8AsxOeOt-15" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
