@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-75" value="地图网架数据展示" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-76" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="455" y="1000" width="130" height="30" as="geometry" />
