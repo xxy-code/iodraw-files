@@ -188,6 +188,15 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-92" value="统计后的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="517.5" width="85" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jTcK0SGoYX2v8AsxOeOt-1" value="地图网架数据展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jTcK0SGoYX2v8AsxOeOt-2" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="445" y="845" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jTcK0SGoYX2v8AsxOeOt-3" value="设备树数据/网架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="805" width="145" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
