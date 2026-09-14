@@ -117,7 +117,7 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-43" value="dataworks DI同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="640" y="410" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.402;exitDx=0;exitDy=0;entryX=0.061;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" target="ZL7HaJF-p9i_tfhkAJ9x-19" edge="1">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.061;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-5" target="ZL7HaJF-p9i_tfhkAJ9x-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="404.1200000000001" as="sourcePoint" />
           </mxGeometry>
@@ -181,7 +181,7 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-87" value="双周报" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-91" value="方式待定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-91" value="方式待定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="445" y="562.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-92" value="统计后的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
