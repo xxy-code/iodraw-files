@@ -182,7 +182,7 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-85" value="气象信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="790" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-87" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-87" value="双周报" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1637.5" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-91" value="方式待定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
