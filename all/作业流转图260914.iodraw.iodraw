@@ -25,7 +25,7 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-5" value="安全风险管控监督平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.994;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-6" target="ZL7HaJF-p9i_tfhkAJ9x-61" edge="1">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.017;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-6" target="ZL7HaJF-p9i_tfhkAJ9x-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-6" value="数智平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
