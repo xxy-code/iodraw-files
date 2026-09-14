@@ -107,8 +107,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1080" y="350" />
-              <mxPoint x="1080" y="485" />
-              <mxPoint x="180" y="485" />
+              <mxPoint x="1080" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -187,10 +186,10 @@
           <mxGeometry x="60" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-91" value="方式待定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="500" width="130" height="30" as="geometry" />
+          <mxGeometry x="445" y="562.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-92" value="统计后的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1432.5" y="455" width="85" height="30" as="geometry" />
+          <mxGeometry x="467.5" y="517.5" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-93" value="&lt;h1&gt;双周报服务&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1542.5" y="90" width="310" height="50" as="geometry" />
