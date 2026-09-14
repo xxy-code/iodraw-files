@@ -143,7 +143,7 @@
           <mxGeometry x="870" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-64" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="450" y="690" width="130" height="30" as="geometry" />
+          <mxGeometry x="455" y="690" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-65" value="登入接口返回信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="442.5" y="650" width="145" height="30" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry x="455" y="810" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jTcK0SGoYX2v8AsxOeOt-16" value="登录token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="770" width="145" height="30" as="geometry" />
+          <mxGeometry x="447.5" y="770" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jTcK0SGoYX2v8AsxOeOt-17" value="组织树展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="850" width="120" height="60" as="geometry" />
