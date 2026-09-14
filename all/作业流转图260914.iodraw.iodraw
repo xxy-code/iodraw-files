@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-75" value="地图网架数据展示" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-76" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="475" y="990" width="130" height="30" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry x="467.5" y="517.5" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jTcK0SGoYX2v8AsxOeOt-14" value="页面嵌入数智平台" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jTcK0SGoYX2v8AsxOeOt-15" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="810" width="130" height="30" as="geometry" />
