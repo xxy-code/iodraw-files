@@ -100,7 +100,7 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-36" target="ZL7HaJF-p9i_tfhkAJ9x-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-36" target="ZL7HaJF-p9i_tfhkAJ9x-87">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-36" target="ZL7HaJF-p9i_tfhkAJ9x-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-36" value="数据清洗与统计服务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -175,7 +175,7 @@
           <mxGeometry x="452.5" y="790" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-87" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="455" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
