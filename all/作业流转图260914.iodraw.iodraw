@@ -103,11 +103,12 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-36" target="ZL7HaJF-p9i_tfhkAJ9x-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-36" target="ZL7HaJF-p9i_tfhkAJ9x-87" edge="1">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-36" target="ZL7HaJF-p9i_tfhkAJ9x-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1080" y="350" />
               <mxPoint x="1080" y="485" />
+              <mxPoint x="180" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -183,7 +184,7 @@
           <mxGeometry x="447.5" y="910" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-87" value="双周报" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-91" value="方式待定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1410" y="500" width="130" height="30" as="geometry" />
