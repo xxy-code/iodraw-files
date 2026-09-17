@@ -148,7 +148,7 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-65" value="登入接口返回信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="650" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ZL7HaJF-p9i_tfhkAJ9x-75" edge="1">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=0.869;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-6" target="ZL7HaJF-p9i_tfhkAJ9x-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="980" as="sourcePoint" />
           </mxGeometry>
