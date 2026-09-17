@@ -212,7 +212,7 @@
             <mxPoint x="1885" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYj8uhGiZsC2KwzAPq79-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;" vertex="1" parent="45E7XbZ-snC2JaMb03WL-1">
+        <mxCell id="mYj8uhGiZsC2KwzAPq79-1" value="i 区" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;" vertex="1" parent="45E7XbZ-snC2JaMb03WL-1">
           <mxGeometry y="40" width="370" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="mYj8uhGiZsC2KwzAPq79-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;" vertex="1" parent="45E7XbZ-snC2JaMb03WL-1">
