@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mYj8uhGiZsC2KwzAPq79-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="45E7XbZ-snC2JaMb03WL-1">
-          <mxGeometry y="40" width="430" height="1080" as="geometry" />
+          <mxGeometry y="40" width="370" height="1080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
