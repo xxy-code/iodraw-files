@@ -212,15 +212,6 @@
             <mxPoint x="1885" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYj8uhGiZsC2KwzAPq79-1" value="I 区" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;fontSize=22;" vertex="1" parent="45E7XbZ-snC2JaMb03WL-1">
-          <mxGeometry y="40" width="370" height="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="mYj8uhGiZsC2KwzAPq79-2" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;II 区&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;" vertex="1" parent="45E7XbZ-snC2JaMb03WL-1">
-          <mxGeometry x="370" y="40" width="370" height="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="mYj8uhGiZsC2KwzAPq79-3" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;III 区&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a680b8;" vertex="1" parent="45E7XbZ-snC2JaMb03WL-1">
-          <mxGeometry x="740" y="40" width="280" height="1080" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
