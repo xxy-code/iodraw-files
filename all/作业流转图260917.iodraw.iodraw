@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="v3wfeiyneeYmPPJzqKw1">
-    <mxGraphModel dx="1214" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1366" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,18 +212,18 @@
             <mxPoint x="985" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_FL5v3KWGQB2GnWREPq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="A_FL5v3KWGQB2GnWREPq-3">
+        <mxCell id="A_FL5v3KWGQB2GnWREPq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="A_FL5v3KWGQB2GnWREPq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="444" y="950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_FL5v3KWGQB2GnWREPq-3" value="设备树数据展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A_FL5v3KWGQB2GnWREPq-3" value="设备树数据展示" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1147" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A_FL5v3KWGQB2GnWREPq-4" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="A_FL5v3KWGQB2GnWREPq-4" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="732" y="960" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A_FL5v3KWGQB2GnWREPq-5" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A_FL5v3KWGQB2GnWREPq-5" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="724.5" y="920" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
