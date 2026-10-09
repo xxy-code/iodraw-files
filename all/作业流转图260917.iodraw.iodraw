@@ -214,17 +214,17 @@
         </mxCell>
         <mxCell id="A_FL5v3KWGQB2GnWREPq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="A_FL5v3KWGQB2GnWREPq-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="452" y="880" as="sourcePoint" />
+            <mxPoint x="444" y="950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_FL5v3KWGQB2GnWREPq-3" value="地图网架数据展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1147" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A_FL5v3KWGQB2GnWREPq-4" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="740" y="890" width="130" height="30" as="geometry" />
+        <mxCell id="A_FL5v3KWGQB2GnWREPq-4" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="732" y="960" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A_FL5v3KWGQB2GnWREPq-5" value="地图网架信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="850" width="145" height="30" as="geometry" />
+          <mxGeometry x="724.5" y="920" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
