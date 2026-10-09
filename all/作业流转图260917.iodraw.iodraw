@@ -150,9 +150,9 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-65" value="登入接口返回信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="45E7XbZ-snC2JaMb03WL-1" vertex="1">
           <mxGeometry x="562.5" y="540" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.978;exitY=0.709;exitDx=0;exitDy=0;exitPerimeter=0;" parent="45E7XbZ-snC2JaMb03WL-1" source="ZL7HaJF-p9i_tfhkAJ9x-6" target="ZL7HaJF-p9i_tfhkAJ9x-75" edge="1">
+        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="45E7XbZ-snC2JaMb03WL-1" target="ZL7HaJF-p9i_tfhkAJ9x-75" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="870" as="sourcePoint" />
+            <mxPoint x="290" y="870" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-75" value="地图网架数据展示" style="whiteSpace=wrap;html=1;rounded=0;" parent="45E7XbZ-snC2JaMb03WL-1" vertex="1">
