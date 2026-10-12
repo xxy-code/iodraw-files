@@ -231,6 +231,9 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-52" value="组织树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
           <mxGeometry x="330" y="980" width="145" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
+          <mxGeometry x="330" y="1030" width="145" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432" y="1310" as="sourcePoint" />
@@ -323,9 +326,6 @@
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-57" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="719" y="1700" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="711.5" y="1660" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
