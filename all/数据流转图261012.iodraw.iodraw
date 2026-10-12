@@ -118,7 +118,7 @@
           <mxGeometry x="180" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-24" value="日计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="336" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
           <mxGeometry relative="1" as="geometry">
