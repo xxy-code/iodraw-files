@@ -55,7 +55,7 @@
           <mxGeometry x="330" y="80" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-25" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
-          <mxGeometry x="350" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27" target="upMBFWb4SZ3cBI0-M5dE-4">
           <mxGeometry relative="1" as="geometry">
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-12" value="月计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="330" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-13" value="周计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="330" y="335" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -200,9 +203,6 @@
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="711.5" y="1660" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-13" value="周计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="338" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-14" value="企业" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="378" width="50" height="30" as="geometry" />
