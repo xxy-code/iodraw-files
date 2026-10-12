@@ -137,8 +137,8 @@
             <mxPoint x="279.40999999999997" y="731" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-37" value="检查单(检查单编号，检查单状态，检查类型等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="290" y="690" width="270" height="30" as="geometry" />
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-37" value="检查单(检查单编号，检查单状态，&lt;br&gt;检查类型等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="320" y="685" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27" target="v-hfbv89O4_6u1VI-1Jm-14">
           <mxGeometry relative="1" as="geometry">
