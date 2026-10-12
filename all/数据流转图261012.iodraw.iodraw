@@ -56,8 +56,8 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v-hfbv89O4_6u1VI-1Jm-27" source="v-hfbv89O4_6u1VI-1Jm-20" target="v-hfbv89O4_6u1VI-1Jm-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-12" value="月计划(计划编号,计划名称,计划类别)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="240" y="295" width="220" height="30" as="geometry" />
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-12" value="月计划(计划编号,计划名称,计划类别等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="295" y="295" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-13" value="周计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="320" y="335" width="60" height="30" as="geometry" />
