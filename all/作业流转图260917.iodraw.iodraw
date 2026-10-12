@@ -82,9 +82,6 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-51" value="字典表必要信息同步服务" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1134" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-53" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="554" y="380" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-56" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="939" y="380" width="60" height="30" as="geometry" />
         </mxCell>
