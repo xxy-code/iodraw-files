@@ -186,6 +186,12 @@
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-42" value="&lt;b&gt;数据中台&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="190" y="170" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="160" y="850" width="120" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="180" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432" y="1310" as="sourcePoint" />
@@ -290,9 +296,6 @@
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="711.5" y="1660" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="530" width="120" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
