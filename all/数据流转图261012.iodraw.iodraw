@@ -38,14 +38,8 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-10" value="共&lt;div&gt;享&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="399" y="212.5" width="30" height="267.5" as="geometry" />
         </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-hfbv89O4_6u1VI-1Jm-14" target="v-hfbv89O4_6u1VI-1Jm-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-15" value="&lt;h1&gt;作业一张图&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1195.5" y="115" width="310" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-18" value="业务列表及详情查询" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1445" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-hfbv89O4_6u1VI-1Jm-20" target="v-hfbv89O4_6u1VI-1Jm-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -91,6 +85,12 @@
           <mxGeometry x="740" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v-hfbv89O4_6u1VI-1Jm-27" source="v-hfbv89O4_6u1VI-1Jm-14" target="v-hfbv89O4_6u1VI-1Jm-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-hfbv89O4_6u1VI-1Jm-18" value="业务列表及详情查询" style="whiteSpace=wrap;html=1;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
+          <mxGeometry x="770" y="582.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-hfbv89O4_6u1VI-1Jm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v-hfbv89O4_6u1VI-1Jm-27" source="v-hfbv89O4_6u1VI-1Jm-14" target="v-hfbv89O4_6u1VI-1Jm-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
