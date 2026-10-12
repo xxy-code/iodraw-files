@@ -16,15 +16,6 @@
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-4" value="&lt;h1&gt;直接相关专业应用&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="324" y="115" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.111;entryY=0.227;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="437.33000000000004" y="264.47" as="sourcePoint" />
-            <mxPoint x="740.6600000000001" y="264.8399999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-5" value="安全风险管控监督平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="235" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="774" y="264.5" as="sourcePoint" />
@@ -50,7 +41,7 @@
           <mxGeometry x="798" y="195" width="30" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-24" value="&lt;h1&gt;数据中台&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="739" y="115" width="100" height="30" as="geometry" />
+          <mxGeometry x="739" y="145" width="100" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-25" target="ZL7HaJF-p9i_tfhkAJ9x-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,14 +75,6 @@
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-43" value="dataworks DI同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="904" y="425" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.061;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-5" target="ZL7HaJF-p9i_tfhkAJ9x-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="444" y="419.1200000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-47" value="dataworks DI同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="524" y="425" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL7HaJF-p9i_tfhkAJ9x-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="ZL7HaJF-p9i_tfhkAJ9x-51" target="ZL7HaJF-p9i_tfhkAJ9x-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
