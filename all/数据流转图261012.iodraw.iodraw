@@ -35,11 +35,6 @@
             <mxPoint x="720" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="upMBFWb4SZ3cBI0-M5dE-11">
-          <mxGeometry x="-0.2693" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-10" value="共&lt;div&gt;享&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="399" y="212.5" width="30" height="267.5" as="geometry" />
         </mxCell>
@@ -211,6 +206,9 @@
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-14" value="企业" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="378" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-17" value="人员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="408" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
