@@ -303,6 +303,20 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="711.5" y="1660" width="145" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.982;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="331" as="targetPoint" />
+            <mxPoint x="434" y="331" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-48" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 22px; text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot; class=&quot;&quot;&gt;IV 区&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;startSize=23;labelBackgroundColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="289" y="50" width="1375" height="1150" as="geometry">
+            <mxRectangle x="279" y="40" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-49" value="月计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
