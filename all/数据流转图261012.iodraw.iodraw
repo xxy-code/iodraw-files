@@ -216,9 +216,6 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="711.5" y="1660" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="480" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
