@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1104" y="95" width="493" height="1075" as="geometry" />
+          <mxGeometry x="1290" y="95" width="493" height="1075" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="324" y="200" width="120" height="300" as="geometry" />
@@ -40,12 +40,6 @@
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-15" value="&lt;h1&gt;作业一张图&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1195.5" y="115" width="310" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-hfbv89O4_6u1VI-1Jm-20" target="v-hfbv89O4_6u1VI-1Jm-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-21" value="大屏展示统计信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1445" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-26" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 22px; text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot; class=&quot;&quot;&gt;IV 区&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;startSize=23;labelBackgroundColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="279" y="40" width="1375" height="1150" as="geometry">
@@ -91,6 +85,12 @@
           <mxGeometry x="770" y="582.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v-hfbv89O4_6u1VI-1Jm-27" source="v-hfbv89O4_6u1VI-1Jm-14" target="v-hfbv89O4_6u1VI-1Jm-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-hfbv89O4_6u1VI-1Jm-21" value="大屏展示统计信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
+          <mxGeometry x="990" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-hfbv89O4_6u1VI-1Jm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v-hfbv89O4_6u1VI-1Jm-27" source="v-hfbv89O4_6u1VI-1Jm-20" target="v-hfbv89O4_6u1VI-1Jm-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
