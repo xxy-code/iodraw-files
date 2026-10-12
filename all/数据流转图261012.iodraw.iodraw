@@ -153,8 +153,8 @@
             <mxPoint x="279.40999999999997" y="691" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-35" value="日计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="319.40999999999997" y="665" width="60" height="30" as="geometry" />
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-35" value="作业现场" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="314.40999999999997" y="665" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry relative="1" as="geometry">
@@ -162,7 +162,7 @@
             <mxPoint x="279.40999999999997" y="731" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-37" value="日计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-37" value="检查单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="319.40999999999997" y="705" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
