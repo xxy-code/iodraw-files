@@ -207,6 +207,15 @@
             <mxPoint x="254" y="911" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-55" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="319.5" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.885;exitY=0.106;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557.5" y="950" as="targetPoint" />
+            <mxPoint x="261.5" y="951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432" y="1310" as="sourcePoint" />
@@ -311,15 +320,6 @@
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="711.5" y="1660" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-55" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.885;exitY=0.106;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="738" y="260" as="targetPoint" />
-            <mxPoint x="442" y="261" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
