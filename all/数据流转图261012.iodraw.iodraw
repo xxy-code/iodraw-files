@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-10" value="共&lt;div&gt;享&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="798" y="340" width="30" height="165" as="geometry" />
+          <mxGeometry x="399" y="212.5" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-11" value="&lt;h1&gt;数据中台&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="739" y="150" width="100" height="10" as="geometry" />
