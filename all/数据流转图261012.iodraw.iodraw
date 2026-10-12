@@ -157,16 +157,16 @@
           <mxGeometry x="330" y="80" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-25" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
-          <mxGeometry x="350" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27" target="upMBFWb4SZ3cBI0-M5dE-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="400.00421052631583" as="targetPoint" />
-            <mxPoint x="269" y="399.945" as="sourcePoint" />
+            <mxPoint x="520" y="240.00421052631583" as="targetPoint" />
+            <mxPoint x="269" y="239.945" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-4" value="字典表必要信息同步服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="557.5" y="370.00421052631583" width="120" height="60" as="geometry" />
+          <mxGeometry x="557.5" y="210.00421052631583" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-56" edge="1">
           <mxGeometry relative="1" as="geometry">
