@@ -262,16 +262,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="160" y="1359" width="120" height="81" as="geometry" />
+          <mxGeometry x="160" y="1280" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-86" value="作业现场布控球实时视频流弹框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="557.5" y="1370" width="120" height="70" as="geometry" />
+          <mxGeometry x="557.5" y="1291" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-88" value="&lt;b&gt;视频一张图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="179" y="1359" width="82" height="30" as="geometry" />
+          <mxGeometry x="179" y="1280" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-89" value="URL" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="176" y="1389" width="84" height="30" as="geometry" />
+          <mxGeometry x="176" y="1310" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27" source="upMBFWb4SZ3cBI0-M5dE-94" target="upMBFWb4SZ3cBI0-M5dE-92">
           <mxGeometry relative="1" as="geometry" />
@@ -289,7 +289,7 @@
           <mxGeometry x="176" y="1210" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-95" value="布控球弹框链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="330" y="1370" width="145" height="30" as="geometry" />
+          <mxGeometry x="330" y="1291" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-96" value="气象信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="330" y="1200" width="145" height="30" as="geometry" />
