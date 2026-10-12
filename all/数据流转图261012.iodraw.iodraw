@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Uyk1-vWk5asZtyr6Vlyk">
-    <mxGraphModel dx="1041" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1987" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,39 +293,6 @@
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-96" value="气象信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="330" y="1200" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-hfbv89O4_6u1VI-1Jm-31" target="v-hfbv89O4_6u1VI-1Jm-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="309.5" y="1830" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-hfbv89O4_6u1VI-1Jm-33" target="v-hfbv89O4_6u1VI-1Jm-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-33" value="视频一张图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="309.5" y="1760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-41" value="作业现场布控球实时视频流弹框" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-42" value="URL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="712" y="1800" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-43" value="布控球弹框链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="704.5" y="1760" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-44" value="气象卡片展示" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1830" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-45" value="SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="709.5" y="1870" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-46" value="气象信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="702" y="1830" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-83" value="作业现场布控球实时视频流弹框" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
