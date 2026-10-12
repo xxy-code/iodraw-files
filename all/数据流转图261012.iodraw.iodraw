@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-21" value="大屏展示统计信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
-          <mxGeometry x="990" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v-hfbv89O4_6u1VI-1Jm-27" source="v-hfbv89O4_6u1VI-1Jm-20" target="v-hfbv89O4_6u1VI-1Jm-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -256,7 +256,7 @@
           <mxGeometry x="510" y="90" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
-          <mxGeometry x="510" y="85" width="493" height="1075" as="geometry" />
+          <mxGeometry x="510" y="85" width="493" height="1155" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-hfbv89O4_6u1VI-1Jm-31" target="v-hfbv89O4_6u1VI-1Jm-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
