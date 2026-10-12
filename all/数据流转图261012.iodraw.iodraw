@@ -155,8 +155,8 @@
             <mxPoint x="279.99999999999994" y="816" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-41" value="布控球" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="320.99999999999994" y="790" width="60" height="30" as="geometry" />
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-41" value="布控球(设备计划关联信息,设备开机运行信息等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="215.99999999999994" y="790" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-4" value="&lt;h1&gt;数据源&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
           <mxGeometry x="150" y="80" width="120" height="70" as="geometry" />
