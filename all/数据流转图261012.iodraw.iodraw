@@ -183,7 +183,7 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-4" value="&lt;h1&gt;直接相关专业应用&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
           <mxGeometry x="150" y="80" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-42" value="&lt;b&gt;数据中台&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="190" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
