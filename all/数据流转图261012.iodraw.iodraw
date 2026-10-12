@@ -147,6 +147,15 @@
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-33" value="日计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="319.41" y="660" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="562.4975000000001" y="726.355" as="targetPoint" />
+            <mxPoint x="279.40999999999997" y="726" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-35" value="日计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="319.40999999999997" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432" y="1310" as="sourcePoint" />
@@ -252,14 +261,14 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="711.5" y="1660" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="763.0875000000001" y="606.355" as="targetPoint" />
-            <mxPoint x="480" y="606" as="sourcePoint" />
+            <mxPoint x="773.0875000000001" y="616.355" as="targetPoint" />
+            <mxPoint x="490" y="616" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-35" value="日计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="580" width="60" height="30" as="geometry" />
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-37" value="日计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
