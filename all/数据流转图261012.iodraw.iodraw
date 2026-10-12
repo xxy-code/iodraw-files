@@ -62,8 +62,8 @@
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-13" value="周计划(计划编号,计划名称,计划类别等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="287.5" y="335" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-14" value="企业(计划编号,计划名称,计划类别等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="235" y="370" width="220" height="30" as="geometry" />
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-14" value="企业(单位名称，作业总数,业绩集合等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
+          <mxGeometry x="287.5" y="370" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-17" value="人员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry x="320" y="410" width="50" height="30" as="geometry" />
