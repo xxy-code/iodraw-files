@@ -66,7 +66,7 @@
           <mxGeometry x="287.5" y="370" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-17" value="人员(工号，姓名，联系电话，所属单位等)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
-          <mxGeometry x="220" y="410" width="250" height="30" as="geometry" />
+          <mxGeometry x="287.5" y="420" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMBFWb4SZ3cBI0-M5dE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="v-hfbv89O4_6u1VI-1Jm-27">
           <mxGeometry relative="1" as="geometry">
