@@ -20,9 +20,6 @@
             <mxRectangle x="15" y="25" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-17" value="月/周/日/抢修/临时计划&lt;div&gt;计划告警(签到)违章(督查单)信息,作业点信息&lt;/div&gt;&lt;div&gt;布控球信息,单位,作业人员,安监考试,&lt;/div&gt;&lt;div&gt;人员资质,人员异动等信息&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
-          <mxGeometry x="330" y="80" width="260" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-25" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
           <mxGeometry x="320" y="210" width="60" height="30" as="geometry" />
         </mxCell>
