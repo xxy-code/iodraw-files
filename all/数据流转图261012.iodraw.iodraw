@@ -52,9 +52,6 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-21" value="大屏展示统计信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1445" y="335" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="v-hfbv89O4_6u1VI-1Jm-24" target="v-hfbv89O4_6u1VI-1Jm-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-26" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 22px; text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot; class=&quot;&quot;&gt;IV 区&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A680B8;startSize=23;labelBackgroundColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="279" y="40" width="1375" height="1150" as="geometry">
             <mxRectangle x="279" y="40" width="80" height="30" as="alternateBounds" />
@@ -162,9 +159,6 @@
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-25" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
           <mxGeometry x="420" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v-hfbv89O4_6u1VI-1Jm-24" value="字典表必要信息同步服务" style="whiteSpace=wrap;html=1;rounded=0;" parent="v-hfbv89O4_6u1VI-1Jm-27" vertex="1">
-          <mxGeometry x="692.5" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="v-hfbv89O4_6u1VI-1Jm-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="444" y="950" as="sourcePoint" />
@@ -178,9 +172,6 @@
         </mxCell>
         <mxCell id="v-hfbv89O4_6u1VI-1Jm-58" value="设备树信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="724.5" y="920" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="upMBFWb4SZ3cBI0-M5dE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v-hfbv89O4_6u1VI-1Jm-10" target="v-hfbv89O4_6u1VI-1Jm-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
