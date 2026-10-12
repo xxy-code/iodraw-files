@@ -339,6 +339,9 @@
             <mxPoint x="441.5" y="971" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="upMBFWb4SZ3cBI0-M5dE-61" value="字典数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
